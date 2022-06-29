@@ -87,8 +87,14 @@ internal class Program
                         Console.WriteLine($"Nombre: {civilizacion.Name} ");
                         Console.WriteLine($"Expansion: {civilizacion.Expansion}");
                         Console.WriteLine($"Army_type : {civilizacion.ArmyType}");
-                        Console.WriteLine($"unique_unit: {civilizacion.UniqueUnit}");
+                        
+                        foreach (var unidad in civilizacion.UniqueUnit)
+                        {
+                            Console.WriteLine($"unique_unit: {unidad}");
+                        }
+
                         Console.WriteLine($"unique_tech: {civilizacion.UniqueTech}");
+                        
                         Console.WriteLine($"team Bonus: {civilizacion.TeamBonus}");                    
 
                     }
