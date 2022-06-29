@@ -1,0 +1,15 @@
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\bin\Debug\net6.0\tp10-2022-Debumax.exe
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\bin\Debug\net6.0\tp10-2022-Debumax.deps.json
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\bin\Debug\net6.0\tp10-2022-Debumax.runtimeconfig.json
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\bin\Debug\net6.0\tp10-2022-Debumax.dll
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\bin\Debug\net6.0\tp10-2022-Debumax.pdb
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.csproj.AssemblyReference.cache
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.AssemblyInfoInputs.cache
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.AssemblyInfo.cs
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.csproj.CoreCompileInputs.cache
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.dll
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\refint\tp10-2022-Debumax.dll
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.pdb
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\tp10-2022-Debumax.genruntimeconfig.cache
+C:\Users\Debu\Documents\taller 1\tp10-2022-Debumax\obj\Debug\net6.0\ref\tp10-2022-Debumax.dll
